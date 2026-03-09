@@ -9,3 +9,5 @@ This is a beginner Python project that generates secure random passwords.
 
 ## Technologies
 Python
+
+![python-password-generator](Pythoncode.png)
